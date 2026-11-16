@@ -1,3 +1,5 @@
+<p align="center"><img src="voxora.png" width="96" alt="Voxora logo"></p>
+
 # Voxora
 
 Universal AI audio assistant for Windows: meeting transcription with speaker detection, and voice dictation into any app (double-tap Caps Lock).
